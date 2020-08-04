@@ -47,7 +47,7 @@
     "remark-validate-links": "^10.0.0",
     "strip-indent": "^3.0.0",
     "tape": "^4.0.0",
-    "tinyify": "^2.0.0",
+    "tinyify": "^3.0.0",
     "to-vfile": "^6.0.0",
     "trim": "0.0.1",
     "unist-builder": "^2.0.0",
